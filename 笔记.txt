@@ -1,1 +1,6 @@
-ctags linux 查找工具
+ctags linux 内部查找
+fuzzyfinder 查找文件
+happygrep 查找定位
+编辑vimrc 单词补齐
+:set spell 检查拼写错误
+snippinate
